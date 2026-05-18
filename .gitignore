@@ -1,6 +1,6 @@
 .env
 .venv/
-
-.DS_Store
-.DS_Store
 .venv311/
+__pycache__/
+*.pyc
+.DS_Store
