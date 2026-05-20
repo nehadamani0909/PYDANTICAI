@@ -3,4 +3,5 @@
 .venv311/
 __pycache__/
 *.pyc
+.DS_Store.DS_Store
 .DS_Store
